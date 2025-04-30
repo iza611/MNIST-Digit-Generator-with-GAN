@@ -1,4 +1,4 @@
-Generative Adversarial Network trained on MNIST dataset to generate an image with a handwritten digit. 
+Generative Adversarial Network trained on MNIST dataset to generate an image of a handwritten digit. 
 
 Results after 10, 20, 50 and 100 epochs of training:
 | Epoch 10 | Epoch 20 |
